@@ -3,13 +3,16 @@ header:
     url: /articles
 
   - title: Tutorials
-    url: /Tutorials.html
-
+    url: /Tutorials
+  
   - title: About Me
-    url: /about.html
+    url: /about
 
   - title: Resources
+    url: /resources
+
+  - title: Archive
     url: /archive.html
 
   - title: GitHub
-    url: "https://github.com/bitVivAZ"
+    url: https://github.com/bitVivAZ
