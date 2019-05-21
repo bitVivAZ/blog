@@ -2,13 +2,14 @@
 title: Website Development
 layout: landing
 description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/severe.png
+image: assets/webdev/severegamingza/images/severe.png
 nav-menu: true
 permalink: /webdev
 ---
 
-<section id="one" class="tiles">
-  {% for post in site.webdev limit:site.tiles-count %}
+<section id="one" class="tiles">  
+  {% assign sortedPosts = site.webdev | sort: 'date' | reverse %}
+  {% for post in sortedPosts limit:site.tiles-count %}
   <article>
     <span class="image">
       <img src="{{ post.image }}" alt="" />
