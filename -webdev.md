@@ -9,7 +9,7 @@ permalink: /webdev
 
 <section id="one" class="tiles">  
   {% assign sortedPosts = site.webdev | sort: 'date' | reverse %}
-  {% for post in sortedPosts limit:site.tiles-count %}
+  {% for post in sortedPosts %}
   <article>
     <span class="image">
       <img src="{{ post.image }}" alt="" />
