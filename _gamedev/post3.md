@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Project3
+title: Project1
 description: Ipsum dolor sit amet
-image: ../assets/images/pic03.jpg
+image: ../assets/images/pic07.jpg
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 

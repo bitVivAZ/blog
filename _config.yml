@@ -4,7 +4,7 @@ subtitle: Personal Website
 email: bitVivAZ@gmail.com
 description: Aspiring Software, Website and Game Developer <br /> Join me on my journey!
 baseurl: "/personal" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: https://bitvivaz.com # the base hostname & protocol for your site
 author:
 street_address: 
 city: 
