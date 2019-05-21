@@ -1,7 +1,7 @@
 ---
 title: Website Development
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Portofolio of websites developed by me'
 image: assets/webdev/severegamingza/images/severe.png
 nav-menu: true
 permalink: /webdev

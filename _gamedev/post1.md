@@ -3,6 +3,7 @@ layout: post
 title: Project3
 description: Ipsum dolor sit amet
 image: /personal/assets/images/pic03.jpg
+date: 2019-05-21 14:40:45
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 

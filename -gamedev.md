@@ -1,14 +1,15 @@
 ---
 title: Game Development
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Portofolio of games developed by me'
 image: assets/images/gamedev.png
 nav-menu: true
 permalink: /gamedev
 ---
 
 <section id="one" class="tiles">
-  {% for post in site.gamedev limit:site.tiles-count %}
+{% assign sortedPosts = site.gamedev | sort: 'date' | reverse %}
+  {% for post in sortedPosts %}
   <article>
     <span class="image">
       <img src="{{ post.image }}" alt="" />

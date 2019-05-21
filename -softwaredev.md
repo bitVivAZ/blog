@@ -1,7 +1,7 @@
 ---
 title: Software Development
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Portofolio of software developed by me'
 image: assets/images/softwaredev.jpeg
 nav-menu: true
 permalink: /softwaredev
