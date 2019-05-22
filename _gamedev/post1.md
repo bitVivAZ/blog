@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Project3
-description: Ipsum dolor sit amet
-image: /personal/assets/images/pic03.jpg
+title: Shadow of Deception
+description: Puzzle Platformer Prototype    
+image: /personal/assets/gamedev/Shadow%20of%20Deception/images/level002.png
 date: 2019-05-21 14:40:45
 ---
+![Menu Page](/personal/assets/gamedev/Shadow%20of%20Deception/images/welcome.png)
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
 Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 
@@ -22,10 +23,11 @@ Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venen
 Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. 
 Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
 
-
-
 <div class="box alt">
 	<div class="row 50% uniform">
-		 <div class="u$"><iframe frameborder="0" src="https://itch.io/embed-upload/1420194?color=1d212d" allowfullscreen="true" width="1056" height="576"></iframe></div>
+        <div class="u$"><span class="image fit"><img src="/personal/assets/gamedev/Shadow of Deception/images/level001.png" alt="level001" /></span></div>
+        <div class="6u"><span class="image fit"><img src="/personal/assets/gamedev/Shadow of Deception/images/level002.png" alt="level002" /></span></div>
+        <div class="6u"><span class="image fit"><img src="/personal/assets/gamedev/Shadow of Deception/images/level003.png" alt="level003" /></span></div>
+        <div class="u$"><span class="image fit"><img src="/personal/assets/gamedev/Shadow of Deception/images/level004.png" alt="level004" /></span></div>
 	</div>
 </div>
