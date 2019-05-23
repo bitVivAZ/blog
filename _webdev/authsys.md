@@ -2,6 +2,7 @@
 layout: post
 title: Authentication System
 description: University Portal Prototype
+techstack: Made with Node.js, HTML, CSS, Bootstrap, MongoDB
 image: /personal/assets/webdev/authentication-system/images/cambridge.jpeg
 date: 2019-05-21 14:40:45
 
@@ -17,14 +18,20 @@ When the user signs in, the user should be notified ‘You have signed in’.  Y
 framework you chose as your Specialisation to attempt this challenge. There is no correct answer for this, brain storm 
 and just make what you think is right.
 </blockquote>
-<b>The next part of the prototype challenge was:</b>
+The next part of the prototype challenge was:
 <blockquote>
 Create a sign in system when the user can edit his profile and save it and then log out. Assume the user is a student,
-he should be able to change his name, surname ,age, degree and his favourite course. You may only use the programming 
+he should be able to change his name, surname , age, degree and his favourite course. You may only use the programming 
 language or frame that you chose for your specialisation. There is no correct asnwer for this, do what you feel is right 
 and think, do what you feel is right.
 </blockquote>
 
+### Tech Stack 
+- Node.js 
+- HTML
+- CSS 
+- Bootstrap
+- MongoDB
 
 ### Features
 - Login, Register, Dashboard, Edit Profile Page
@@ -36,10 +43,11 @@ and think, do what you feel is right.
 - MongoDB for database
 - Bootswatch for Bootstrap theme
 
-Source code: https://github.com/bitVivAZ/Authentication-System
 
-Tech Stack: Node.js, HTML, Bootstrap, MongoDB
+<b>Source code:</b> [GitHub](https://github.com/bitVivAZ/Authentication-System)
 
+
+### Screenshots
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="6u"><span class="image fit"><img src="/personal/assets/webdev/authentication-system/images/welcome.png" alt="welcome page" /></span></div>
