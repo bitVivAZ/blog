@@ -1,14 +1,16 @@
 ---
-title: Software Development
+title: Website Development
 layout: landing
-description: 'Portofolio of software developed by me'
-image: assets/images/softwaredev.jpeg
+description: 'Portofolio of websites developed by me'
+image: assets/webdev/severegamingza/images/severe.png
 nav-menu: true
-permalink: /softwaredev
+date: 2019-05-01 14:40:45
+permalink: /webdev
 ---
 
-<section id="one" class="tiles">
-  {% for post in site.softwaredev limit:site.tiles-count %}
+<section id="one" class="tiles">  
+  {% assign sortedPosts = site.webdev | sort: 'date' | reverse %}
+  {% for post in sortedPosts %}
   <article>
     <span class="image">
       <img src="{{ post.image }}" alt="" />

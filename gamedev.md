@@ -1,14 +1,15 @@
 ---
-title: Website Development
+title: Game Development
 layout: landing
-description: 'Portofolio of websites developed by me'
-image: assets/webdev/severegamingza/images/severe.png
+description: 'Portofolio of games developed by me'
+image: assets/images/gamedev.png
 nav-menu: true
-permalink: /webdev
+date: 2019-05-30 14:40:45
+permalink: /gamedev
 ---
 
-<section id="one" class="tiles">  
-  {% assign sortedPosts = site.webdev | sort: 'date' | reverse %}
+<section id="one" class="tiles">
+{% assign sortedPosts = site.gamedev | sort: 'date' | reverse %}
   {% for post in sortedPosts %}
   <article>
     <span class="image">

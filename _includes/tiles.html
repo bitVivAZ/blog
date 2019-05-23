@@ -12,7 +12,9 @@
   </article>
   {% endif %}
   {% endfor %}
-  {% for page in site.pages limit:site.tiles-count %}
+
+  {% assign sortedPages = site.pages | sort: 'date' | reverse %}
+  {% for page in sortedPages limit:site.tiles-count %}
   {% if site.tiles-source == 'pages' and page.show_tile != false %}
   <article>
     <span class="image">
@@ -26,3 +28,5 @@
   {% endif %}
   {% endfor %}
 </section>
+
+  

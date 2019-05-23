@@ -1,15 +1,15 @@
 ---
-title: Game Development
+title: Software Development
 layout: landing
-description: 'Portofolio of games developed by me'
-image: assets/images/gamedev.png
+description: 'Portofolio of software developed by me'
+image: assets/images/softwaredev.jpeg
 nav-menu: true
-permalink: /gamedev
+date: 2019-05-20 14:40:45
+permalink: /softwaredev
 ---
 
 <section id="one" class="tiles">
-{% assign sortedPosts = site.gamedev | sort: 'date' | reverse %}
-  {% for post in sortedPosts %}
+  {% for post in site.softwaredev limit:site.tiles-count %}
   <article>
     <span class="image">
       <img src="{{ post.image }}" alt="" />

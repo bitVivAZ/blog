@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shadow of Deception
-description: Puzzle Platformer Prototype    
+description: Puzzle Platformer Prototype        
 image: /personal/assets/gamedev/Shadow%20of%20Deception/images/level002.png
 date: 2019-05-21 14:40:45
 ---
@@ -30,4 +30,4 @@ Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
         <div class="6u"><span class="image fit"><img src="/personal/assets/gamedev/Shadow of Deception/images/level003.png" alt="level003" /></span></div>
         <div class="u$"><span class="image fit"><img src="/personal/assets/gamedev/Shadow of Deception/images/level004.png" alt="level004" /></span></div>
 	</div>
-</div>
+</div>                          1       2       12
