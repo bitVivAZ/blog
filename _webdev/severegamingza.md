@@ -34,6 +34,7 @@ This project will always be close to my heart since this was my first 'big proje
 
 <b>Source code:</b> [GitHub](https://github.com/bitVivAZ/SeveregamingZA)
 
+<b>Website:</b> [SeveregamingZA](https://severegamingza.com)
 
 ### Screenshots
 <div class="box alt">
@@ -54,4 +55,4 @@ This project will always be close to my heart since this was my first 'big proje
         <div class="6u"><span class="image fit"><img src="/personal/assets/webdev/severegamingza/images/login.png" alt="register page" /></span></div>
         <div class="6u"><span class="image fit"><img src="/personal/assets/webdev/severegamingza/images/admin.png" alt="editprofile page" /></span></div>
 	</div>
-</div>S
+</div>
