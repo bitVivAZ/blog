@@ -2,20 +2,40 @@
 layout: post
 title: Severegaming ZA
 description: South African eSports Organization
+techstack: Made with Django, HTML, CSS, JavaScript, Bootstrap, jQuery
 image: /personal/assets/webdev/severegamingza/images/severe.png
 date: 2019-05-20 14:40:45
 
 ---
 ![Welcome Page](/personal/assets/webdev/severegamingza/images/home.png)
 
-## Authentication System
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+
+I have huge passion for eSports, especially for DOTA 2 and thought it would be a great way and oppurtinity to learn Django and Python by creating a website for Severe Gaming, a multi gaming organization that I manage and used to play for. 
+
+Going into this project I only really knew HTML and CSS, however after a few coding tutorials on YouTube I learned the basics of Django and BootStrap in no time. Since this was my first time creating a website and designing one I had no idea how I wanted it to look like until one of our previous Counter-Strike players made our awesome banner. After seeing it and browsing codepen and different website to draw inspiration from I had a solid idea and vision of how I wanted it to look like.
+
+Currently the website only has a register and login page to create articles. The rest I still have to add through the admin dashboard. This is definitly something I would like to change in the future if the site and organization grows with time however for now I don't think its neccesary.
+
+This project will always be close to my heart since this was my first 'big project' and I've learned so much through making this website and hosting it through DigitalOcean. 
+
+### Tech Stack 
+- Django
+- HTML
+- CSS
+- JavaScript
+- jQuery
+- BootStrap
+- DigitalOcean
+
+### Features
+- Home, news, teams, matches, media, sponsors and contact pages
+- Register, login and create article page to enable anyone to write articles
+- Most of the page info is rendered from the database (SQLite) which makes it easy to add/edit or remove any important information through the admin dashboard
+
+<b>Source code:</b> [GitHub](https://github.com/bitVivAZ/SeveregamingZA)
 
 
-"Create an Auth System that uses a simple html forms as the UI. You will be need to make 2 html pages, one for sign in and one for sign up. Design your own database architecture to store the sign up details in the database. The user should be able to sign in after they have signed up. When the user signs up the user should be notified ‘You have signed up’. When the user signs in, the user should be notified ‘You have signed in’. You may only use the programming language or framework you chose as your Specialisation to attempt this challenge. There is no correct answer for this, brain storm and just make what you think is right"
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
-
+### Screenshots
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="6u"><span class="image fit"><img src="/personal/assets/webdev/severegamingza/images/home2.png" alt="Home page Two" /></span></div>
@@ -34,4 +54,4 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
         <div class="6u"><span class="image fit"><img src="/personal/assets/webdev/severegamingza/images/login.png" alt="register page" /></span></div>
         <div class="6u"><span class="image fit"><img src="/personal/assets/webdev/severegamingza/images/admin.png" alt="editprofile page" /></span></div>
 	</div>
-</div>
+</div>S
