@@ -16,6 +16,4 @@ I have always Wanted a website where I could display all my projects I've made. 
 
 <b>Website:</b> [BitVivAZ](https://bitvivaz.com)
 
-![alt text][Home Page]
-
-[Home Page]:https://bitvivaz.com/personal/assets/webdev/personalweb/images/personalweb.png "Home Page"
+![](assets/webdev/personalweb/images/personalweb.png)
