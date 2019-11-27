@@ -51,6 +51,7 @@ Currently the website only supports the resolution of 1920x1080
 - Cronjob that runs a python script to update every hour all the data
 
 <b>Front-end Source code:</b> [GitHub](https://github.com/bitVivAZ/dota-stats)
+
 <b>Back-end Source code:</b> [GitHub](https://github.com/bitVivAZ/dota-stats-backend)
 
 <b>Website:</b> [BitVivAZ DOTA STATS](https://bitvivaz.com/dota-stats/)
