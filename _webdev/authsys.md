@@ -28,14 +28,16 @@ language or frame that you chose for your specialisation. There is no correct as
 and think, do what you feel is right.
 </blockquote>
 
-### Tech Stack 
-- Node.js 
+### TECH STACK
+
+- Node.js
 - HTML
-- CSS 
+- CSS
 - Bootstrap
 - MongoDB
 
-### Features
+### FEATURES
+
 - Login, Register, Dashboard, Edit Profile Page
 - flash for notifications
 - Passport.js for authentication
@@ -49,7 +51,7 @@ and think, do what you feel is right.
 <b>Source code:</b> [GitHub](https://github.com/bitVivAZ/Authentication-System)
 
 
-### Screenshots
+### SCREENSHOTS
 
 <div class="box alt">
 	<div class="row 50% uniform">

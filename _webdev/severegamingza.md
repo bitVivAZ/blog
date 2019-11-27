@@ -19,7 +19,7 @@ Currently the website only has a register and login page to create articles. The
 
 This project will always be close to my heart since this was my first 'big project'. I've learned so much by making this website and hosting it through DigitalOcean.
 
-### Tech Stack
+### TECH STACK
 
 - Django
 - HTML
@@ -30,7 +30,7 @@ This project will always be close to my heart since this was my first 'big proje
 - Nginx
 - DigitalOcean
 
-### Features
+### FEATURES
 
 - Home, news, teams, matches, media, sponsors and contact pages
 - Register, login and create article page to enable anyone to write articles
@@ -40,7 +40,7 @@ This project will always be close to my heart since this was my first 'big proje
 
 <b>Website:</b> [SeveregamingZA](https://severegamingza.com)
 
-### Screenshots
+### SCREENSHOTS
 
 <div class="box alt">
 	<div class="row 50% uniform">
