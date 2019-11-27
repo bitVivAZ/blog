@@ -6,7 +6,6 @@ techstack: Made with Flask, Python, JavaScript, HTML, CSS, Bootstrap, Sqlite, Ng
 image: /personal/assets/webdev/dotastats/images/background.jpg
 date: 2019-11-01 10:04:50
 ---
-![Welcome Page](/personal/assets/webdev/dotastats/images/homepage.png)
 
 I created this Project to learn more about using API's and serving data with a Flask application. This was also a good chance to learn more about AWS and thus decided to host the back-end on an Amazon Elastic Compute Cloud.
 
@@ -55,6 +54,8 @@ Currently the website only supports the resolution of 1920x1080
 <b>Website:</b> [BitVivAZ DOTA STATS](https://bitvivaz.com/dota-stats/)
 
 ### Screenshots
+
+![Welcome Page](/personal/assets/webdev/dotastats/images/homepage.png)
 
 <div class="box alt">
 	<div class="row 50% uniform">
