@@ -9,6 +9,8 @@ date: 2019-11-01 10:04:50
 
 ![Welcome Page](/personal/assets/webdev/dotastats/images/homepage.png)
 
+### INTRO
+
 I created this Project to learn more about using API's and serving data with a Flask application. This was also a good chance to learn more about AWS and thus decided to host the back-end on an Amazon Elastic Compute Cloud.
 
 The back-end consists of two different parts. The first part is a Python script which retrieves data from the public DOTA 2 API and stores the data into a SQLite database. This Python script is run via a cronjob on the server which allows it to run hourly. The script then checks if the new data from DOTA 2 API is equal or not equal to the latest data in the SQLite database and acts accordingly.
