@@ -2,8 +2,8 @@
 layout: post
 title: BitVivAZ DOTA 2 Stats
 description: DOTA 2 Stats Collecting Website
-techstack: Made with Node.js, HTML, CSS, Bootstrap, MongoDB
-image: /personal/assets/webdev/authentication-system/images/cambridge.jpeg
+techstack: Made with Flask, Python, JavaScript, HTML, CSS, Bootstrap, Sqlite, AWS
+image: /personal/assets/webdev/dotastats/images/background.jpg
 date: 2019-11-01 10:04:50
 ---
 ![Welcome Page](/personal/assets/webdev/authentication-system/images/welcome.png)
