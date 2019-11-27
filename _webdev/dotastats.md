@@ -3,7 +3,7 @@ layout: post
 title: BitVivAZ DOTA 2 Stats
 description: DOTA 2 Stats Collecting Website
 techstack: Made with Flask, Python, JavaScript, HTML, CSS, Bootstrap, Sqlite, Nginx, Gunicorn AWS
-image: /personal/assets/webdev/dotastats/images/homepage.png
+image: /personal/assets/webdev/dotastats/images/background.jpg
 date: 2019-11-01 10:04:50
 ---
 ![Welcome Page](/personal/assets/webdev/dotastats/images/homepage.png)
