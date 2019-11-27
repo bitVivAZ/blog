@@ -47,9 +47,7 @@ and think, do what you feel is right.
 - MongoDB for database
 - Bootswatch for Bootstrap theme
 
-
 <b>Source code:</b> [GitHub](https://github.com/bitVivAZ/Authentication-System)
-
 
 ### SCREENSHOTS
 
