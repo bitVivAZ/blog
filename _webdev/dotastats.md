@@ -19,6 +19,13 @@ The front end consists of two pages. The home page which retrieves all the heroe
 The Second page is the data page which uses the stored hero name from the home page and retrieves the hero_id from the Flask application.
 With the hero id a lot of requests are then made to the Flask application. The data from the Flask application is then parsed using Vanilla JavaScript and served to the user.
 
+Currently the website only supports the resolution of 1920x1080
+
+### TODO
+
+- Support more resolutions
+- Add a search bar to filter through heroes
+
 ### Tech Stack
 
 - Flask
