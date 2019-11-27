@@ -2,6 +2,7 @@
 layout: post
 title: Shadow of Deception
 description: Puzzle Platformer Prototype        
+techstack: Made with Godot Engine, Aseprite
 image: /personal/assets/gamedev/Shadow%20of%20Deception/images/level002.png
 date: 2019-05-21 14:40:45
 ---
