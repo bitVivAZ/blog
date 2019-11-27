@@ -9,7 +9,7 @@ date: 2019-11-01 10:04:50
 
 ![Welcome Page](/personal/assets/webdev/dotastats/images/homepage.png)
 
-## BACKGROUND
+### BACKGROUND
 
 I created this Project to learn more about using API's and serving data with a Flask application. This was also a good chance to learn more about AWS and thus decided to host the back-end on an Amazon Elastic Compute Cloud.
 
