@@ -30,4 +30,4 @@ Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
         <div class="6u"><span class="image fit"><img src="/personal/assets/gamedev/Shadow of Deception/images/level003.png" alt="level003" /></span></div>
         <div class="u$"><span class="image fit"><img src="/personal/assets/gamedev/Shadow of Deception/images/level004.png" alt="level004" /></span></div>
 	</div>
-</div>                          1       2       12
+</div>
