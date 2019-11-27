@@ -32,10 +32,10 @@ date: 2019-11-01 10:04:50
 
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="6u"><span class="image fit"><img src="/personal/assets/webdev/authentication-system/images/welcome.png" alt="welcome page" /></span></div>
-		<div class="6u"><span class="image fit"><img src="/personal/assets/webdev/authentication-system/images/login.png" alt="login page" /></span></div>
-		<div class="u$"><span class="image fit"><img src="/personal/assets/webdev/authentication-system/images/register.png" alt="register page" /></span></div>
-        <div class="6u"><span class="image fit"><img src="/personal/assets/webdev/authentication-system/images/loggedin.png" alt="loggedin page" /></span></div>
-		<div class="6u"><span class="image fit"><img src="/personal/assets/webdev/authentication-system/images/editprofile.png" alt="editprofile page" /></span></div>
+		<div class="6u"><span class="image fit"><img src="/personal/assets/webdev/dotastats/images/homepage.png" alt="home page"/></span></div>
+		<div class="6u"><span class="image fit"><img src="/personal/assets/webdev/dotastats/images/axe.png" alt="axe" /></span></div>
+		<div class="u$"><span class="image fit"><img src="/personal/assets/webdev/dotastats/images/pudge.png" alt="pudge" /></span></div>
+        <div class="6u"><span class="image fit"><img src="/personal/assets/webdev/dotastats/images/cm.png" alt="crystal maiden" /></span></div>
+		<div class="6u"><span class="image fit"><img src="/personal/assets/webdev/dotastats/images/bane.png" alt="bane" /></span></div>
 	</div>
 </div>
