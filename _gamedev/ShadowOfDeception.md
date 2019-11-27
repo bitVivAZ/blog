@@ -7,21 +7,41 @@ date: 2019-05-21 14:40:45
 ---
 ![Menu Page](/personal/assets/gamedev/ShadowOfDeception/images/welcome.png)
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 
-Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. 
-Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+### BACKGROUND
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. 
-Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. 
-Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. 
-Pellentesque aliquam maximus risus, vel sed vehicula.
+Puzzle Platformer created using the Godot engine
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. 
-Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+After seeing this pixel art tileset and demo from [0x72](https://0x72.itch.io) I just knew that I wanted to recreate this in the Godot Engine. This game is puzzle platformer where you move around and hit mirriors, switches and fireballs to solve problems.
+
+This was my first game created using the Godot engine with GDScript which is a python-like programming language.
+
+This was a huge learning experience and I've learned a lot creating this game in terms of programming and the Godot engine.
+
+Things I would do differently next project:
+
+- Create a full state machine
+- Use global scripts rather then excessive over use of signals
+- Name function better
+
+The keys are:
+
+- Arrow keys to move arround
+- Z - Resets Level
+- X - Attack
+- C - Jump
+
+Play at: [Itch.io](https://vivaz.itch.io/shadow-of-deception)
+
+### TECH STACK
+
+- Godot Engine
+- Aseprite
+
+### FEATURES
+
+- Three playable levels
+
+### SCREENSHOTS
 
 <div class="box alt">
 	<div class="row 50% uniform">
