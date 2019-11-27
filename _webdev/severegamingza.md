@@ -25,6 +25,7 @@ This project will always be close to my heart since this was my first 'big proje
 - JavaScript
 - jQuery
 - BootStrap
+- Nginx
 - DigitalOcean
 
 ### Features

@@ -2,30 +2,29 @@
 layout: post
 title: BitVivAZ DOTA 2 Stats
 description: DOTA 2 Stats Collecting Website
-techstack: Made with Flask, Python, JavaScript, HTML, CSS, Bootstrap, Sqlite, AWS
+techstack: Made with Flask, Python, JavaScript, HTML, CSS, Bootstrap, Sqlite, Nginx, Gunicorn AWS
 image: /personal/assets/webdev/dotastats/images/background.jpg
 date: 2019-11-01 10:04:50
 ---
-![Welcome Page](/personal/assets/webdev/authentication-system/images/welcome.png)
+![Welcome Page](/personal/assets/webdev/dotastats/images/background.jpg)
 
 ### Tech Stack
 
-- Node.js
+- Flask
+- Python
+- JavaScript
 - HTML
 - CSS
 - Bootstrap
-- MongoDB
+- SQLite
+- Nginx
+- Gunicorn
+- Amazon Web Services
 
 ### Features
 
-- Login, Register, Dashboard, Edit Profile Page
-- flash for notifications
-- Passport.js for authentication
-- Bcrypt.js for encrypting passwords
-- Express.js for web framework
-- Mongoose.js for modeling application data
-- MongoDB for database
-- Bootswatch for Bootstrap theme
+- Heroes Pages, Data Page
+- SQLite for database
 
 <b>Source code:</b> [GitHub](https://github.com/bitVivAZ/Authentication-System)
 
