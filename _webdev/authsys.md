@@ -5,8 +5,8 @@ description: University Portal Prototype
 techstack: Made with Node.js, HTML, CSS, Bootstrap, MongoDB
 image: /personal/assets/webdev/authentication-system/images/cambridge.jpeg
 date: 2019-05-21 14:40:45
-
 ---
+
 ![Welcome Page](/personal/assets/webdev/authentication-system/images/welcome.png)
 
 This application was developed as a prototype challenge founded at [zaio.io](https://zaio.io/) which assists student developers build an IT skills profile through coding challenges and practical experience. This prototype challenge was given to me after finishing a series of video tutorials that included HTML5, CSS3, JavaScript and Node.JS (which I was new to). The prototype challenge stated as follows:

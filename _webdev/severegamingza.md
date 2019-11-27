@@ -5,10 +5,9 @@ description: South African eSports Organization
 techstack: Made with Django, HTML, CSS, JavaScript, Bootstrap, jQuery
 image: /personal/assets/webdev/severegamingza/images/severe.png
 date: 2019-05-20 14:40:45
-
 ---
-![Welcome Page](/personal/assets/webdev/severegamingza/images/home.png)
 
+![Welcome Page](/personal/assets/webdev/severegamingza/images/home.png)
 
 I have huge passion for eSports, especially for DOTA 2 and thought it would be a great way and oppurtinity to learn Django and Python by creating a website for Severe Gaming, a multi gaming organization that I manage and used to play for. 
 
@@ -16,9 +15,10 @@ Going into this project I only really knew HTML and CSS, however after a few cod
 
 Currently the website only has a register and login page to create articles. The rest I still have to add through the admin dashboard. This is definitly something I would like to change in the future if the site and organization grows with time however for now I don't think its neccesary.
 
-This project will always be close to my heart since this was my first 'big project'. I've learned so much by making this website and hosting it through DigitalOcean. 
+This project will always be close to my heart since this was my first 'big project'. I've learned so much by making this website and hosting it through DigitalOcean.
 
-### Tech Stack 
+### Tech Stack
+
 - Django
 - HTML
 - CSS
@@ -28,6 +28,7 @@ This project will always be close to my heart since this was my first 'big proje
 - DigitalOcean
 
 ### Features
+
 - Home, news, teams, matches, media, sponsors and contact pages
 - Register, login and create article page to enable anyone to write articles
 - Most of the page info is rendered from the database (SQLite) which makes it easy to add/edit or remove any important information through the admin dashboard
@@ -37,6 +38,7 @@ This project will always be close to my heart since this was my first 'big proje
 <b>Website:</b> [SeveregamingZA](https://severegamingza.com)
 
 ### Screenshots
+
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="6u"><span class="image fit"><img src="/personal/assets/webdev/severegamingza/images/home2.png" alt="Home page Two" /></span></div>

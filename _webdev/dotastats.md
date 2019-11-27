@@ -4,20 +4,20 @@ title: BitVivAZ DOTA 2 Stats
 description: DOTA 2 Stats Collecting Website
 techstack: Made with Node.js, HTML, CSS, Bootstrap, MongoDB
 image: /personal/assets/webdev/authentication-system/images/cambridge.jpeg
-date: 2019-05-21 14:40:45
-
+date: 2019-11-01 10:04:50
 ---
 ![Welcome Page](/personal/assets/webdev/authentication-system/images/welcome.png)
 
+### Tech Stack
 
-### Tech Stack 
-- Node.js 
+- Node.js
 - HTML
-- CSS 
+- CSS
 - Bootstrap
 - MongoDB
 
 ### Features
+
 - Login, Register, Dashboard, Edit Profile Page
 - flash for notifications
 - Passport.js for authentication
@@ -27,11 +27,10 @@ date: 2019-05-21 14:40:45
 - MongoDB for database
 - Bootswatch for Bootstrap theme
 
-
 <b>Source code:</b> [GitHub](https://github.com/bitVivAZ/Authentication-System)
 
-
 ### Screenshots
+
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="6u"><span class="image fit"><img src="/personal/assets/webdev/authentication-system/images/welcome.png" alt="welcome page" /></span></div>
