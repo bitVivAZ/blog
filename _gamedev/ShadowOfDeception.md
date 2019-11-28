@@ -3,7 +3,7 @@ layout: post
 title: Shadow of Deception
 description: Puzzle Platformer Prototype        
 techstack: Made with Godot Engine, Aseprite
-image: /personal/assets/gamedev/Shadow%20of%20Deception/images/level002.png
+image: /personal/assets/gamedev/ShadowOfDeception/images/level002.png
 date: 2019-05-21 14:40:45
 ---
 ![Menu Page](/personal/assets/gamedev/ShadowOfDeception/images/welcome.png)
@@ -31,7 +31,7 @@ The keys are:
 - X - Attack
 - C - Jump
 
-Play at [Itch.io](https://vivaz.itch.io/shadow-of-deception) or [NEWGROUNDS](https://www.newgrounds.com/portal/view/730897)
+Play at [Itch.io](https://vivaz.itch.io/shadow-of-deception) or [NewGrounds](https://www.newgrounds.com/portal/view/730897)
 
 ### TECH STACK
 
