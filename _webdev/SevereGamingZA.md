@@ -4,7 +4,7 @@ title: Severegaming ZA
 description: South African eSports Organization
 techstack: Made with Django, HTML, CSS, JavaScript, Bootstrap, jQuery
 image: /personal/assets/webdev/severegamingza/images/severe.png
-date: 2019-05-20 14:40:45
+date: 2019-05-22 14:40:45
 ---
 
 ![Welcome Page](/personal/assets/webdev/severegamingza/images/home.png)

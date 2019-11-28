@@ -4,7 +4,7 @@ title: Authentication System
 description: University Portal Prototype
 techstack: Made with Node.js, HTML, CSS, Bootstrap, MongoDB
 image: /personal/assets/webdev/authentication-system/images/cambridge.jpeg
-date: 2019-05-21 14:40:45
+date: 2019-11-01 10:04:50
 ---
 
 ![Welcome Page](/personal/assets/webdev/authentication-system/images/welcome.png)

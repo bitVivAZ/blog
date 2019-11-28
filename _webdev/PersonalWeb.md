@@ -4,7 +4,7 @@ title: Personal Website
 description: My own personal website
 techstack: Made with Jekyll, HTML, CSS, JavaScript, Markdown, GitPages
 image: /personal/assets/webdev/personalweb/images/background.jpg
-date: 2019-05-22 14:40:45
+date: 2019-05-20 14:40:45
 ---
 
 ![Welcome Page](/personal/assets/webdev/personalweb/images/personalweb.png)
