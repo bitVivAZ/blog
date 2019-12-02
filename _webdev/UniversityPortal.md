@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Authentication System
+title: University Portal
 description: University Portal Prototype
 techstack: Made with Node.js, HTML, CSS, Bootstrap, MongoDB
 image: /personal/assets/webdev/authentication-system/images/cambridge.jpeg

@@ -31,7 +31,7 @@ The keys are:
 - X - Attack
 - C - Jump
 
-Play at [Itch.io](https://vivaz.itch.io/shadow-of-deception) or [NewGrounds](https://www.newgrounds.com/portal/view/730897)
+[NewGrounds](https://www.newgrounds.com/portal/view/730897) or Play at [Itch.io](https://vivaz.itch.io/shadow-of-deception)
 
 ### TECH STACK
 
