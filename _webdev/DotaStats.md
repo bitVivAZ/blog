@@ -44,6 +44,7 @@ Currently the website only supports the resolution of 1920x1080
 - Gunicorn
 - Amazon Web Services
 - GitPages
+- Figma
 
 ### FEATURES
 
