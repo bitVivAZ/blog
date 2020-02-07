@@ -45,12 +45,6 @@ Credit:
 
 ### SCREENSHOTS
 
-![](screenshots/main.png)
-![](screenshots/level01.png)
-![](screenshots/level02.png)
-![](screenshots/level04.png)
-![](screenshots/level05.png)
-
 <div class="box alt">
 	<div class="row 50% uniform">
         <div class="u$"><span class="image fit"><img src="/personal/assets/gamedev/RoboMagnet/images/level01.png" alt="level01" /></span></div>
