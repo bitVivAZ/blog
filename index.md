@@ -8,4 +8,5 @@ author: null
 show_tile: false
 ---
 
-I am currently studying B.Sc Applied Mathematics and Computer Science. Since a very young age I loved playing video games and working on computers. This naturaly led to me discovering my passion for programming and making things!
+Since a very young age I loved playing video games and working on computers, this naturaly led to me discovering my passion for programming and making things! I would love to become a profesional developer and make things that will have impact on other people's live
+s!
