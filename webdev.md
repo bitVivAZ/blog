@@ -4,7 +4,7 @@ layout: landing
 description: 'Portofolio of websites developed by me'
 image: assets/webdev/severegamingza/images/severe.png
 nav-menu: true
-date: 2019-05-01 14:40:45
+date: 2020-02-01 14:40:45
 permalink: /webdev
 ---
 
