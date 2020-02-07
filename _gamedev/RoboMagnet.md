@@ -3,35 +3,36 @@ layout: post
 title: RoboMagnet
 description: Puzzle Platformer Created For The Weekly Game Jam    
 techstack: Made with Godot Engine, Aseprite
-image: /personal/assets/gamedev/RoboMagnet/level01.png
+image: /personal/assets/gamedev/RoboMagnet/images/level01.png
 date: 2020-02-07 14:15:45
 ---
-![Menu Page](/personal/assets/gamedev/RoboMagnet/main.png)
+![Menu Page](/personal/assets/gamedev/RoboMagnet/images/main.png)
 
 ### BACKGROUND
 
-Puzzle Platformer created using the Godot engine
+This game is heavily based on RNG and may cause frustration among those who are not patient enough nor fast enough with their keyboards. This game is also not made for the faint-hearted ones. 
 
-After seeing this pixel art tileset and demo from [0x72](https://0x72.itch.io) I just knew that I wanted to recreate this in the Godot Engine. This game is puzzle platformer where you move around and hit mirriors, switches and fireballs to solve problems.
+Play as the Robo Magnet and move through the levels while you collect batteries to power the doors that will take you to the next level!
 
-This was my first game created using the Godot engine with GDScript which is a python-like programming language.
+Made for the [Weekly Game Jam 134](https://itch.io/jam/weekly-game-jam-134)
 
-This was a huge learning experience and I've learned a lot creating this game in terms of programming and the Godot engine.
+Play at [Itch.io](https://bitvivaz.itch.io/robomagnet)
 
-Things I would do differently next project:
+The Controls:
 
-- Create a full state machine
-- Use global scripts rather then excessive over use of signals
-- Name function better
+- W/A/S/D - Magnet Direction
 
-The keys are:
+- Spacebar - Activate Magnet
 
-- Arrow keys to move arround
-- Z - Resets Level
-- X - Attack
-- C - Jump
+- Arrow keys - Robot Movement
 
-[NewGrounds](https://www.newgrounds.com/portal/view/730897) or Play at [Itch.io](https://vivaz.itch.io/shadow-of-deception)
+Credit:
+
+- Programmer: [@bitVivAZ](https://bitvivaz.itch.io/)
+
+- Pixel Artist: [@SomeFarang](https://somefarang.itch.io/)
+
+- Music & Sound: [@CDWpod](https://cdwpod.itch.io/)
 
 ### TECH STACK
 
@@ -40,15 +41,21 @@ The keys are:
 
 ### FEATURES
 
-- Three playable levels
+- Five playable levels
 
 ### SCREENSHOTS
 
+![](screenshots/main.png)
+![](screenshots/level01.png)
+![](screenshots/level02.png)
+![](screenshots/level04.png)
+![](screenshots/level05.png)
+
 <div class="box alt">
 	<div class="row 50% uniform">
-        <div class="u$"><span class="image fit"><img src="/personal/assets/gamedev/ShadowOfDeception/images/level001.png" alt="level001" /></span></div>
-        <div class="6u"><span class="image fit"><img src="/personal/assets/gamedev/ShadowOfDeception/images/level002.png" alt="level002" /></span></div>
-        <div class="6u"><span class="image fit"><img src="/personal/assets/gamedev/ShadowOfDeception/images/level003.png" alt="level003" /></span></div>
-        <div class="u$"><span class="image fit"><img src="/personal/assets/gamedev/ShadowOfDeception/images/level004.png" alt="level004" /></span></div>
+        <div class="u$"><span class="image fit"><img src="/personal/assets/gamedev/RoboMagnet/images/level01.png" alt="level01" /></span></div>
+        <div class="6u"><span class="image fit"><img src="/personal/assets/gamedev/RoboMagnet/images/level02.png" alt="level02" /></span></div>
+        <div class="6u"><span class="image fit"><img src="/personal/assets/gamedev/RoboMagnet/images/level04.png" alt="level04" /></span></div>
+        <div class="u$"><span class="image fit"><img src="/personal/assets/gamedev/RoboMagnet/images/level05.png" alt="level05" /></span></div>
 	</div>
 </div>

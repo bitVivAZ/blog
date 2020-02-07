@@ -18,6 +18,8 @@ This was my first game created using the Godot engine with GDScript which is a p
 
 This was a huge learning experience and I've learned a lot creating this game in terms of programming and the Godot engine.
 
+[NewGrounds](https://www.newgrounds.com/portal/view/730897) or Play at [Itch.io](https://vivaz.itch.io/shadow-of-deception)
+
 Things I would do differently next project:
 
 - Create a full state machine
@@ -30,8 +32,6 @@ The keys are:
 - Z - Resets Level
 - X - Attack
 - C - Jump
-
-[NewGrounds](https://www.newgrounds.com/portal/view/730897) or Play at [Itch.io](https://vivaz.itch.io/shadow-of-deception)
 
 ### TECH STACK
 
