@@ -21,17 +21,13 @@ Play at [Itch.io](https://bitvivaz.itch.io/robomagnet)
 The Controls:
 
 - W/A/S/D - Magnet Direction
-
 - Spacebar - Activate Magnet
-
 - Arrow keys - Robot Movement
 
 Credit:
 
 - Programmer: [@bitVivAZ](https://bitvivaz.itch.io/)
-
 - Pixel Artist: [@SomeFarang](https://somefarang.itch.io/)
-
 - Music & Sound: [@CDWpod](https://cdwpod.itch.io/)
 
 ### TECH STACK
