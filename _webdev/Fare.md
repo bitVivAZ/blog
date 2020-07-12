@@ -7,8 +7,6 @@ image: /personal/assets/webdev/fare/images/screenOne.png
 date: 2020-07-12 14:40:45
 ---
 
-![Welcome Screen](/personal/assets/webdev/fare/images/screenOne.png)
-
 # Fare Website
 
 Fare (fà·re) meaning "to do" in Italian is prototype I made using ReactJS.
@@ -33,9 +31,14 @@ You are also able to set the Todo Card to completed, making it uneditable and fa
 - Add, Edit and Delete Todocards
 - Add, Edit and Delete Subtasks
 
-<b>Source code:</b>
+### Source code
 
-- Website: [GitHub](https://github.com/bitVivAZ/fare)
-- Backend: [GitHub](https://github.com/bitVivAZ/fare-server)
+<b>Front end Source code:</b> [GitHub](https://github.com/bitVivAZ/fare)
+
+<b>Back end Source code:</b> [GitHub](https://github.com/bitVivAZ/fare-server)
 
 <b>Website:</b> [Fare](https://bitvivaz.com/fare/)
+
+### Screenshots
+
+![Welcome Screen](/personal/assets/webdev/fare/images/screenOne.png)

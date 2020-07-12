@@ -7,8 +7,6 @@ image: /personal/assets/webdev/dotastats/images/background.jpg
 date: 2019-05-22 14:40:45
 ---
 
-![Welcome Page](/personal/assets/webdev/dotastats/images/homepage.png)
-
 ### BACKGROUND
 
 I created this Project to learn more about using API's and serving data with a Flask application. This was also a good chance to learn more about AWS and thus decided to host the back-end on an Amazon Elastic Compute Cloud.
@@ -55,9 +53,9 @@ Currently the website only supports the resolution of 1920x1080
 - Front-end that parses all the data and displays it to the user
 - Cronjob that runs a python script to update every hour all the data
 
-<b>Front-end Source code:</b> [GitHub](https://github.com/bitVivAZ/dota-stats)
+<b>Front end Source code:</b> [GitHub](https://github.com/bitVivAZ/dota-stats)
 
-<b>Back-end Source code:</b> [GitHub](https://github.com/bitVivAZ/dota-stats-backend)
+<b>Back end Source code:</b> [GitHub](https://github.com/bitVivAZ/dota-stats-backend)
 
 <b>Website:</b> [BitVivAZ DOTA STATS](https://bitvivaz.com/dota-stats/)
 
@@ -65,6 +63,7 @@ Currently the website only supports the resolution of 1920x1080
 
 <div class="box alt">
 	<div class="row 50% uniform">
+		<div class="u$"><span class="image fit"><img src="/personal/assets/webdev/dotastats/images/homepage.png" alt="homepage" /></span></div>
 		<div class="6u"><span class="image fit"><img src="/personal/assets/webdev/dotastats/images/oracle.png" alt="oracle"/></span></div>
 		<div class="6u"><span class="image fit"><img src="/personal/assets/webdev/dotastats/images/axe.png" alt="axe" /></span></div>
 		<div class="u$"><span class="image fit"><img src="/personal/assets/webdev/dotastats/images/pudge.png" alt="pudge" /></span></div>
