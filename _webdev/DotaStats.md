@@ -7,8 +7,6 @@ image: /personal/assets/webdev/dotastats/images/background.jpg
 date: 2019-05-22 14:40:45
 ---
 
-### BACKGROUND
-
 I created this Project to learn more about using API's and serving data with a Flask application. This was also a good chance to learn more about AWS and thus decided to host the back-end on an Amazon Elastic Compute Cloud.
 
 The back-end consists of two different parts. The first part is a Python script which retrieves data from the public DOTA 2 API and stores the data into a SQLite database. This Python script is run via a cronjob on the server which allows it to run hourly. The script then checks if the new data from DOTA 2 API is equal or not equal to the latest data in the SQLite database and acts accordingly.
@@ -24,12 +22,14 @@ The website was designed using Figma an interface design tool.
 
 Currently the website only supports the resolution of 1920x1080
 
+<b>Website:</b> [BitVivAZ DOTA STATS](https://bitvivaz.com/dota-stats/)
+
 ### TODO
 
 - Support more resolutions
 - Add a search bar to filter through heroes
 
-### TECH STACK
+### Tech Stack
 
 - Flask
 - Python
@@ -44,7 +44,7 @@ Currently the website only supports the resolution of 1920x1080
 - GitPages
 - Figma
 
-### FEATURES
+### Features
 
 - Heroes Pages, Data Page
 - SQLite for database
@@ -53,13 +53,13 @@ Currently the website only supports the resolution of 1920x1080
 - Front-end that parses all the data and displays it to the user
 - Cronjob that runs a python script to update every hour all the data
 
+### Source Code
+
 <b>Front end Source code:</b> [GitHub](https://github.com/bitVivAZ/dota-stats)
 
 <b>Back end Source code:</b> [GitHub](https://github.com/bitVivAZ/dota-stats-backend)
 
-<b>Website:</b> [BitVivAZ DOTA STATS](https://bitvivaz.com/dota-stats/)
-
-### SREENSHOTS
+### Screenshots
 
 <div class="box alt">
 	<div class="row 50% uniform">
