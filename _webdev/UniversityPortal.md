@@ -2,16 +2,13 @@
 layout: post
 title: University Portal
 description: University Portal Prototype
-techstack: Made with Node.js, HTML, CSS, Bootstrap, MongoDB
+techstack: Made with NodeJS, HTML, CSS, Bootstrap, MongoDB
 image: /personal/assets/webdev/authentication-system/images/cambridge.jpeg
 date: 2019-11-01 10:04:50
 ---
 
-![Welcome Page](/personal/assets/webdev/authentication-system/images/welcome.png)
-
-### BACKGROUND
-
 This application was developed as a prototype challenge founded at [zaio.io](https://zaio.io/) which assists student developers build an IT skills profile through coding challenges and practical experience. This prototype challenge was given to me after finishing a series of video tutorials that included HTML5, CSS3, JavaScript and Node.JS (which I was new to). The prototype challenge stated as follows:
+
 <blockquote>
 Create an Auth System that uses a simple html forms as the UI. You will be need to make 2 html pages, one for sign in 
 and one for sign up. Design your own database architecture to store the sign up details in the database. The user should 
@@ -28,15 +25,15 @@ language or frame that you chose for your specialisation. There is no correct as
 and think, do what you feel is right.
 </blockquote>
 
-### TECH STACK
+### Tech Stack
 
-- Node.js
+- NodeJS
 - HTML
 - CSS
 - Bootstrap
 - MongoDB
 
-### FEATURES
+### Features
 
 - Login, Register, Dashboard, Edit Profile Page
 - flash for notifications
@@ -47,9 +44,11 @@ and think, do what you feel is right.
 - MongoDB for database
 - Bootswatch for Bootstrap theme
 
-<b>Source code:</b> [GitHub](https://github.com/bitVivAZ/Authentication-System)
+### Source Code
 
-### SCREENSHOTS
+- [GitHub](https://github.com/bitVivAZ/Authentication-System)
+
+### Screenshots
 
 <div class="box alt">
 	<div class="row 50% uniform">
