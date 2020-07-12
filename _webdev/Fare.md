@@ -33,9 +33,8 @@ You are also able to set the Todo Card to completed, making it uneditable and fa
 
 ### Source Code
 
-<b>Front end Source code:</b> [GitHub](https://github.com/bitVivAZ/fare)
-
-<b>Back end Source code:</b> [GitHub](https://github.com/bitVivAZ/fare-server)
+- Front end Source code: [GitHub](https://github.com/bitVivAZ/fare)
+- Back end Source code: [GitHub](https://github.com/bitVivAZ/fare-server)
 
 ### Screenshots
 
