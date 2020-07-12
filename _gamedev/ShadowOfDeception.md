@@ -39,6 +39,10 @@ The keys are:
 
 - Three playable levels
 
+### Source Code
+
+- [GitHub](https://github.com/bitVivAZ/ShadowOfDeception)
+
 ### SCREENSHOTS
 
 <div class="box alt">
