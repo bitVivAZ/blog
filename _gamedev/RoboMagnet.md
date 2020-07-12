@@ -1,16 +1,13 @@
 ---
 layout: post
 title: RoboMagnet
-description: Puzzle Platformer Created For The Weekly Game Jam    
+description: Puzzle Platformer Created For The Weekly Game Jam
 techstack: Made with Godot Engine, Aseprite
 image: /personal/assets/gamedev/RoboMagnet/images/level01.png
 date: 2020-02-07 14:15:45
 ---
-![Menu Page](/personal/assets/gamedev/RoboMagnet/images/main.png)
 
-### BACKGROUND
-
-This game is heavily based on RNG and may cause frustration among those who are not patient enough nor fast enough with their keyboards. This game is also not made for the faint-hearted ones. 
+This game is heavily based on RNG and may cause frustration among those who are not patient enough nor fast enough with their keyboards. This game is also not made for the faint-hearted ones.
 
 Play as the Robo Magnet and move through the levels while you collect batteries to power the doors that will take you to the next level!
 
@@ -30,19 +27,24 @@ Credit:
 - Pixel Artist: [@SomeFarang](https://somefarang.itch.io/)
 - Music & Sound: [@CDWpod](https://cdwpod.itch.io/)
 
-### TECH STACK
+### Tech Stack
 
 - Godot Engine
 - Aseprite
 
-### FEATURES
+### Features
 
 - Five playable levels
 
-### SCREENSHOTS
+### Source Code
+
+- [GitHub](https://github.com/bitVivAZ/RoboMagnet)
+
+### Screenshots
 
 <div class="box alt">
 	<div class="row 50% uniform">
+        <div class="u$"><span class="image fit"><img src="/personal/assets/gamedev/RoboMagnet/images/main.png" alt="main" /></span></div>
         <div class="u$"><span class="image fit"><img src="/personal/assets/gamedev/RoboMagnet/images/level01.png" alt="level01" /></span></div>
         <div class="6u"><span class="image fit"><img src="/personal/assets/gamedev/RoboMagnet/images/level02.png" alt="level02" /></span></div>
         <div class="6u"><span class="image fit"><img src="/personal/assets/gamedev/RoboMagnet/images/level04.png" alt="level04" /></span></div>

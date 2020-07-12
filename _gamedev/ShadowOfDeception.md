@@ -1,14 +1,11 @@
 ---
 layout: post
 title: Shadow of Deception
-description: Puzzle Platformer Prototype        
+description: Puzzle Platformer Prototype
 techstack: Made with Godot Engine, Aseprite
 image: /personal/assets/gamedev/ShadowOfDeception/images/level002.png
 date: 2019-05-21 14:40:45
 ---
-![Menu Page](/personal/assets/gamedev/ShadowOfDeception/images/welcome.png)
-
-### BACKGROUND
 
 Puzzle Platformer created using the Godot engine
 
@@ -28,7 +25,7 @@ Things I would do differently next project:
 
 The keys are:
 
-- Arrow keys to move arround
+- Arrow keys to move around
 - Z - Resets Level
 - X - Attack
 - C - Jump
@@ -46,6 +43,7 @@ The keys are:
 
 <div class="box alt">
 	<div class="row 50% uniform">
+        <div class="u$"><span class="image fit"><img src="/personal/assets/gamedev/ShadowOfDeception/images/welcome.png" alt="welcome" /></span></div>
         <div class="u$"><span class="image fit"><img src="/personal/assets/gamedev/ShadowOfDeception/images/level001.png" alt="level001" /></span></div>
         <div class="6u"><span class="image fit"><img src="/personal/assets/gamedev/ShadowOfDeception/images/level002.png" alt="level002" /></span></div>
         <div class="6u"><span class="image fit"><img src="/personal/assets/gamedev/ShadowOfDeception/images/level003.png" alt="level003" /></span></div>
