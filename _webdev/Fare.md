@@ -3,7 +3,7 @@ layout: post
 title: Fare Website
 description: Fare (fà·re) meaning "to do" in Italian is todo prototype I made using ReactJS.
 techstack: Made with HTML, CSS, JavaScript, ReactJS, NodeJS, MongoDB, Ant Design, Heroku
-image: /personal/assets/webdev/fare/images/screenOne.png
+image: /personal/assets/webdev/fare/images/screen.png
 date: 2020-07-12 14:40:45
 ---
 
