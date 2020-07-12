@@ -30,12 +30,12 @@ The keys are:
 - X - Attack
 - C - Jump
 
-### TECH STACK
+### Tech Stack
 
 - Godot Engine
 - Aseprite
 
-### FEATURES
+### Features
 
 - Three playable levels
 
@@ -43,7 +43,7 @@ The keys are:
 
 - [GitHub](https://github.com/bitVivAZ/ShadowOfDeception)
 
-### SCREENSHOTS
+### Screenshots
 
 <div class="box alt">
 	<div class="row 50% uniform">
