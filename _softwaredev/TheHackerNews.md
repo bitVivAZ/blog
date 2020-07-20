@@ -17,7 +17,7 @@ You can view the app on Android or iOS by downloading the Expo app either throug
 
 <b>Website:</b> [Expo](https://expo.io/@bitvivaz/the-hacker-news)
 
-<img src="personal/assets/softwaredev/thehackernews/images/QRCode.png" height="200" />
+<img src="/personal/assets/softwaredev/thehackernews/images/QRCode.png" height="200" />
 
 ### Tech Stack
 
@@ -38,12 +38,12 @@ You can view the app on Android or iOS by downloading the Expo app either throug
 
 #### Opening App
 
-![Opening App](personal/assets/softwaredev/thehackernews/images/OpeningApp.gif)
+![Opening App](/personal/assets/softwaredev/thehackernews/images/OpeningApp.gif)
 
 #### Scrolling App
 
-![Scrolling App](personal/assets/softwaredev/thehackernews/images/ScrollingApp.gif)
+![Scrolling App](/personal/assets/softwaredev/thehackernews/images/ScrollingApp.gif)
 
 #### Reading Comments
 
-![Reading Comments](personal/assets/softwaredev/thehackernews/images/ReadingComments.gif)
+![Reading Comments](/personal/assets/softwaredev/thehackernews/images/ReadingComments.gif)

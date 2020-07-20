@@ -2,7 +2,7 @@
 title: Software Development
 layout: landing
 description: "Portofolio of Software developed by me"
-image: assets/images/softwaredev.jpeg
+image: assets/images/softwaredev/thehackernews/images/background.jpg
 nav-menu: true
 date: 2019-05-30 14:40:45
 permalink: /software
