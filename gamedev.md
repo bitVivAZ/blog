@@ -1,7 +1,7 @@
 ---
 title: Game Development
 layout: landing
-description: 'Portofolio of games developed by me'
+description: "Portofolio of games developed by me"
 image: assets/images/gamedev.png
 nav-menu: true
 date: 2019-05-30 14:40:45
@@ -18,6 +18,7 @@ permalink: /gamedev
     <header class="major">
       <h3><a href="{{ post.url  | relative_url }}" class="link">{{ post.title }}</a></h3>
       <p>{{ post.description }}</p>
+      <p>{{ post.techstack }}</p>
     </header>
   </article>
   {% endfor %}
