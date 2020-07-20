@@ -7,8 +7,6 @@ image: /personal/assets/softwaredev/thehackernews/images/background.jpg
 date: 2020-07-20 14:40:45
 ---
 
-# The Hacker News Mobile Application
-
 I like to read the [Hacker News](https://news.ycombinator.com/) daily, to find out what is going on in the tech scene.
 
 After finding out that the hacker news API is public, I decided to use React Native to create a mobile app which I could use to read the top trending posts from.
