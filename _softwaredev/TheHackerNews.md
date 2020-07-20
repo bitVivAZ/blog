@@ -3,7 +3,7 @@ layout: post
 title: The Hacker News
 description: A mobile app created using React Native to read the latest trending posts from YCombinator.
 techstack: React Native, JavaScript
-image: /personal/assets/softwaredev/thehackernews/background.jpg
+image: /personal/assets/softwaredev/thehackernews/images/background.jpg
 date: 2020-07-20 14:40:45
 ---
 
@@ -19,7 +19,7 @@ You can view the app on Android or iOS by downloading the Expo app either throug
 
 <b>Website:</b> [Expo](https://expo.io/@bitvivaz/the-hacker-news)
 
-<img src="/screenshots/QRCode.png" height="200" />
+<img src="personal/assets/softwaredev/thehackernews/images/QRCode.png" height="200" />
 
 ### Tech Stack
 
@@ -40,12 +40,12 @@ You can view the app on Android or iOS by downloading the Expo app either throug
 
 #### Opening App
 
-![Opening App](screenshots/OpeningApp.gif)
+![Opening App](personal/assets/softwaredev/thehackernews/images/OpeningApp.gif)
 
 #### Scrolling App
 
-![Scrolling App](screenshots/ScrollingApp.gif)
+![Scrolling App](personal/assets/softwaredev/thehackernews/images/ScrollingApp.gif)
 
 #### Reading Comments
 
-![Reading Comments](screenshots/ReadingComments.gif)
+![Reading Comments](personal/assets/softwaredev/thehackernews/images/ReadingComments.gif)
