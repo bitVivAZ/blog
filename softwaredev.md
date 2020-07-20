@@ -9,7 +9,7 @@ permalink: /software
 ---
 
 <section id="one" class="tiles">
-  {% assign sortedPosts = site.gamedev | sort: 'date' | reverse %}
+  {% assign sortedPosts = site.softwaredev | sort: 'date' | reverse %}
   {% for post in sortedPosts %}
   <article>
     <span class="image">
