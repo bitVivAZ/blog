@@ -7,7 +7,7 @@ image: /personal/assets/webdev/fare/images/screen.png
 date: 2020-07-12 14:40:45
 ---
 
-Fare (fà·re) meaning “to do” in Italian, is a to do prototype I made using React.
+Fare (fà·re) meaning “to do” in Italian, is a to do list prototype I made using React.
 
 <b>Website:</b> [Fare](https://bitvivaz.com/fare/)
 
