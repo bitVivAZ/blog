@@ -21,7 +21,7 @@ Create a sign-in system when the user can edit his profile and save it and then 
 
 ### Tech Stack
 
-- NodeJS
+- Node.js
 - HTML
 - CSS
 - Bootstrap
