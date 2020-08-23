@@ -7,15 +7,15 @@ image: /personal/assets/gamedev/ShadowOfDeception/images/level002.png
 date: 2019-05-21 14:40:45
 ---
 
-Puzzle Platformer created using the Godot engine
+A Puzzle Platformer developed using the Godot engine.
 
-After seeing this pixel art tileset and demo from [0x72](https://0x72.itch.io) I just knew that I wanted to recreate this in the Godot Engine. This game is puzzle platformer where you move around and hit mirriors, switches and fireballs to solve problems.
+After seeing this pixel art tileset and demo from [0x72](https://0x72.itch.io), I just knew that I wanted to recreate it in the Godot Engine. This game is a puzzle-platformer, where you move around and solve problems by hitting mirrors, switches and fireballs.
 
-This was my first game created using the Godot engine with GDScript which is a python-like programming language.
+This was my first game created using the Godot engine. The Godot engine uses GDScript which is a python-like programming language.
 
-This was a huge learning experience and I've learned a lot creating this game in terms of programming and the Godot engine.
+This was a huge learning experience. I’ve learned a lot by creating this game in terms of programming and the Godot engine itself.
 
-[NewGrounds](https://www.newgrounds.com/portal/view/730897) or Play at [Itch.io](https://vivaz.itch.io/shadow-of-deception)
+Plat at: [NewGrounds](https://www.newgrounds.com/portal/view/730897) or [Itch.io](https://vivaz.itch.io/shadow-of-deception)
 
 Things I would do differently next project:
 

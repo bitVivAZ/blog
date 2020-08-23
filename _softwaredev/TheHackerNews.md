@@ -36,11 +36,11 @@ You can view the app on Android or iOS by downloading the Expo app either throug
 
 ### Screenshots
 
-#### Opening App
+#### Opening The App
 
 ![Opening App](/personal/assets/softwaredev/thehackernews/images/OpeningApp.gif)
 
-#### Scrolling App
+#### Scrolling
 
 ![Scrolling App](/personal/assets/softwaredev/thehackernews/images/ScrollingApp.gif)
 
