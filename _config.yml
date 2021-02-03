@@ -1,10 +1,10 @@
 # site settings
-title: BitVivAZ
+title: Martin Buxmann
 subtitle: Personal Website
-email: bitVivAZ@gmail.com
+email: mbuxmann@outlook.com
 description: Aspiring Software, Website and Game Developer <br /> Join me on my journey!
 baseurl: "/personal" # the subpath of your site, e.g. /blog
-url: https://bitvivaz.com # the base hostname & protocol for your site
+url: https://buxmann.dev # the base hostname & protocol for your site
 author:
 street_address: 
 city: 
@@ -20,11 +20,11 @@ tiles-count: 3
 # social settings
 500px_url:
 facebook_url:
-github_url: https://github.com/bitVivAZ
+github_url: https://github.com/mbuxmann
 gitlab_url: https://gitlab.com/u/bitVivAZ
 googleplus_url: 
 instagram_url: https://instagram.com/bitVivAZ
-linkedin_url: https://www.linkedin.com/in/martinbuxmann/
+linkedin_url: https://www.linkedin.com/in/mabuxmann/
 pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/bitVivAZ
